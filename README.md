@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 ¡Hola! Soy un desarrollador en formación con experiencia en Python y Flask. Me gusta crear aplicaciones web dinámicas y resolver problemas con código limpio y funcional.<br><br>💡 Soy una persona curiosa y siempre dispuesta a aprender nuevas tecnologías. Me adapto rápido, disfruto trabajar en equipo y aportar ideas para mejorar los proyectos en conjunto.<br><br>🛠️ Actualmente estoy enfocado en seguir mejorando mis habilidades como desarrollador full stack, aprendiendo sobre frontend, bases de datos y buenas prácticas en el desarrollo de software.<br><br>🚀 Siempre estoy buscando nuevos desafíos y formas de crecer profesionalmente.
+👋 ¡Hola! Soy un desarrollador en formación con experiencia en Python, Flask, HTML, CSS y JavaScript. Me gusta crear aplicaciones web dinámicas y resolver problemas con código limpio y funcional.<br><br>💡 Soy una persona curiosa y siempre dispuesta a aprender nuevas tecnologías. Me adapto rápido, disfruto trabajar en equipo y aportar ideas para mejorar los proyectos en conjunto.<br><br>🛠️ Actualmente estoy enfocado en seguir mejorando mis habilidades como desarrollador full stack, aprendiendo sobre frontend, bases de datos y buenas prácticas en el desarrollo de software.<br><br>🚀 Siempre estoy buscando nuevos desafíos y formas de crecer profesionalmente.
 
 
 # 💻 Tech Stack:
