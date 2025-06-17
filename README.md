@@ -12,5 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=NahuelDevs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelDevs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 # Linkedin:
 https://www.linkedin.com/in/nahuel-abreu-86950a2ba/
